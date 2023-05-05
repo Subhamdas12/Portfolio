@@ -596,7 +596,7 @@ h3.my-profession{
     margin-bottom: 20px;
 }
 .contact-sub-title{
-    color: var(--text-black-9000);
+    color: var(--text-black-900);
     text-align: center;
     font-size: 15px;
     margin-bottom: 60px;
@@ -720,4 +720,13 @@ h3.my-profession{
         flex: 0 0 100%;
         max-width: 100%;
     }
+}
+.makeitdark{
+    color: var(--text-black-900);
+    padding: 0.5rem;
+    text-align: center;
+    margin-top: 0.4rem;
+}
+.project-details{
+    height: 15rem;
 }
